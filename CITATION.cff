@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and link to https://lemondrove.com/data/."
+type: dataset
+title: "The Lemon Index"
+authors:
+  - name: "Lemondrove"
+    website: "https://lemondrove.com/"
+version: "2026-11-17"
+date-released: "2026-11-17"
+url: "https://lemondrove.com/data/"
+license: CC-BY-4.0
+keywords: [junk cars, used cars, salvage vehicles, scrap prices, vehicle prices]
